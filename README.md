@@ -1,4 +1,4 @@
-# Nuthan<h1 align="center">Hi 👋, I'm Nuthan Gatla</h1>
+<h1 align="center">Hi 👋, I'm Nuthan Gatla</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
 - 🔭 I’m currently working on [Sample E-Commers Project](https://github.com/DevopsProjects05/Sample-E-Commers-Project)
